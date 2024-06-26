@@ -1,21 +1,21 @@
-![Filament Minimalist Theme Banner](art/banner.jpg)
+![Filament Minimalist Theme Banner](https://raw.githubusercontent.com/angelej/filament-minimalist-theme-docs/main/art/banner.jpg)
 # Filament Minimalist Theme
 The Filament Minimalist Theme is a modern and minimalistic theme for your Filament panel.
 Minimalist is also responsive on any device and supports dark-mode.
 
 ## Screenshots
 ### Light Theme
-![List customers page in light mode](art/light_customers.png)
-![Edit product in light mode](art/light_edit_product.png)
-![Show notifications in light mode](art/light_notifications.png)
-![Login page in light mode](art/light_login.png)
+![List customers page in light mode](https://raw.githubusercontent.com/angelej/filament-minimalist-theme-docs/main/art/light_customers.png)
+![Edit product in light mode](https://raw.githubusercontent.com/angelej/filament-minimalist-theme-docs/main/art/light_edit_product.png)
+![Show notifications in light mode](https://raw.githubusercontent.com/angelej/filament-minimalist-theme-docs/main/art/light_notifications.png)
+![Login page in light mode](https://raw.githubusercontent.com/angelej/filament-minimalist-theme-docs/main/art/light_login.png)
 
 
 ### Dark Theme
-![Login page in dark mode](art/dark_login.png)
-![Dashboard page in dark mode](art/dark_dashboard.png)
-![List customers page in dark mode](art/dark_customers.png)
-![Edit product in dark mode](art/dark_edit_product.png)
+![Login page in dark mode](https://raw.githubusercontent.com/angelej/filament-minimalist-theme-docs/main/art/dark_login.png)
+![Dashboard page in dark mode](https://raw.githubusercontent.com/angelej/filament-minimalist-theme-docs/main/art/dark_dashboard.png)
+![List customers page in dark mode](https://raw.githubusercontent.com/angelej/filament-minimalist-theme-docs/main/art/dark_customers.png)
+![Edit product in dark mode](https://raw.githubusercontent.com/angelej/filament-minimalist-theme-docs/main/art/dark_edit_product.png)
 
 
 
